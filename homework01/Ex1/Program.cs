@@ -1,4 +1,4 @@
-﻿
+﻿//Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
 Console.WriteLine("Задайте 2 числа");
 Console.WriteLine("Введите первое число");
 string FirstNumberStr = Console.ReadLine();
